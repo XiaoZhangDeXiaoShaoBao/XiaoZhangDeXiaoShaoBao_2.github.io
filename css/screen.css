@@ -110,12 +110,8 @@ ul.posts span {
 .site .head {
     color: black;
     font-size: 270%;
-<<<<<<< HEAD
-    margin-bottom: 50em;
+    margin-bottom: 150em;
     text-align: center;
-=======
-    align-content: center;
->>>>>>> 46c70d6f2970218bb79b9b62bc93f9ec5e7a5c5c
 }
 
 .site .title a {
